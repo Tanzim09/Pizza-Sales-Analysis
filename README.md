@@ -13,6 +13,16 @@ This project analyzes **Pizza Sales Data** using **SQL, Excel, Power BI, and DAX
 
 ---
 
+## 📊 **Dashboard Overview**
+
+### 🖼 **Sales Trends & Insights**
+![Dashboard Overview](dashboard_screenshots/dashboard_overview.png)
+
+### 📜 **Key Insights & Recommendations**
+![Insights & Recommendations](dashboard_screenshots/insights_recommendations.png)
+
+---
+
 ## 🔍 **Key Insights**
 
 🔹 **Peak Sales Hours:** 12 PM - 1 PM & 6 PM - 8 PM  
@@ -25,9 +35,9 @@ This project analyzes **Pizza Sales Data** using **SQL, Excel, Power BI, and DAX
 
 ## 🛠 **Tools & Skills Used**
 
-- **SQL (Joins, Aggregations, CTEs, Window Functions)**
-- **Excel (Data Cleaning, Pivot Tables, Analysis)**
-- **Power BI (DAX, Data Visualization, Dashboarding)**
+- **SQL (Joins, Aggregations, CTEs, Window Functions)**  
+- **Excel (Data Cleaning, Pivot Tables, Analysis)**  
+- **Power BI (DAX, Data Visualization, Dashboarding)**  
 
 ---
 
