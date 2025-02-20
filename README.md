@@ -11,7 +11,6 @@ This project analyzes **Pizza Sales Data** using **SQL, Excel, Power BI, and DAX
 ✅ **Power BI** – Interactive dashboard using **DAX functions**  
 ✅ **Key Insights** – Sales trends, peak hours, top-selling pizzas
 
-
 ---
 
 ## 🔍 **Key Insights**
