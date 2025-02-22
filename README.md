@@ -1,6 +1,6 @@
 # 🍕 Pizza Sales Analysis | Data Analytics Project
 
-This project analyzes **Pizza Sales Data** using **SQL, Excel, Power BI, and DAX functions** to uncover key insights and business trends. The dataset contains sales records from **Jan 2015 - Dec 2015**.
+This project analyzes **Pizza Sales Data** using **SQL, Excel and Power BI** to uncover key insights and business trends. The dataset contains sales records from **Jan 2015 - Dec 2015**.
 
 ---
 
@@ -25,9 +25,9 @@ This project analyzes **Pizza Sales Data** using **SQL, Excel, Power BI, and DAX
 
 ## 🛠 **Tools & Skills Used**
 
-- **SQL (Joins, Aggregations, CTEs, Window Functions)**  
-- **Excel (Data Cleaning, Pivot Tables, Analysis)**  
-- **Power BI (DAX, Data Visualization, Dashboarding)**  
+- **SQL**
+- **Excel**
+- **Power BI**
 
 ---
 
